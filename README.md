@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-The website is now fully functional and accessible. You shouldn't have to do anything special to view it. No downloads are necessary. Just clicking the link will take you right to it.
+The website is now fully functional and accessible. You shouldn't have to do anything special to view it. No downloads are necessary. Just clicking the link will take you right to it. https://melmealey.github.io/Horiseon/
 
 ## Credits
 
